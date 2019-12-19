@@ -1,6 +1,0 @@
-Version changes
-last updated: February 21, 2015
-author: Raymond Ma
-
---Ver 1.0--
-initial build
